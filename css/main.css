@@ -1,0 +1,60 @@
+
+
+.margin_left{
+
+}
+
+
+.Page1 {
+position:relative;
+background: url(file:///C:/Users/deepj/Downloads/lab-css-recipes-clone-master/lab-css-recipes-clone-master/starter-code/apple-pie-starter-code/images/apple-pie.jpg) 0 0 no-repeat;
+width:100%;
+height:500px;
+background-position:center;
+
+}
+
+.Page1 h1{
+  position:relative;
+  color: rgb(255,255,255);
+  font-size: 5em;
+  margin-left:40%;
+  background-position:center;
+}
+
+.Page2 img {
+
+
+  width:200px;
+  height:40px;
+  margin-left:500px;
+}
+
+.Page3 img {
+
+
+  width:200px;
+  height:40px;
+  margin-left:500px;
+}
+.margin_down{
+   margin-top:30%;
+}
+
+.Page2 {
+text-align:left;
+}
+.Page3 {
+text-align:left;
+}
+.col {
+  float: left;
+}
+
+.col-3 {
+  width: 75%;
+}
+
+.col-middle {
+  margin: 0 20%;
+}
