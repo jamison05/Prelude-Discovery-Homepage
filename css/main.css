@@ -3,8 +3,20 @@
 .margin_left{
 
 }
+.card{
 
+  margin:5px 5px 5px 5px;
+  padding:1px 1px 1px 1px;
+}
 
+.card-collection{
+  width:100%;
+  height:100%;
+display:flex;
+flex-direction:row;
+flex-wrap: wrap;
+
+}
 .Page1 {
 
 
