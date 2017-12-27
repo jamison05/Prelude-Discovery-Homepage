@@ -58,7 +58,7 @@ border-radius:10px;
 
 }
 /* Ripple Out */
-@-webkit-keyframes card-collection {
+@-webkit-keyframes border-ripple {
   100% {
     top: -10px;
     right: -10px;
@@ -67,7 +67,7 @@ border-radius:10px;
     opacity: 15;
   }
 }
-@keyframes card-collection {
+@keyframes border-ripple {
   100% {
     top: -5px;
     right: -5px;
@@ -76,7 +76,7 @@ border-radius:10px;
     opacity:0;
   }
 }
-.card-collection {
+.border-ripple {
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
@@ -84,7 +84,7 @@ border-radius:10px;
   box-shadow: 0 0 1px transparent;
   position: relative;
 }
-.card-collection:before {
+.border-ripple:before {
   /* content: ''; */
   position: absolute;
   border: #e1e1e1 solid 15px;
@@ -95,7 +95,7 @@ border-radius:10px;
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
 }
-.card-collection:hover:before, .card-collection:focus:before, .card-collection:active:before {
+.border-ripple:hover:before, .border-ripple:focus:before, .border-ripple:active:before {
   -webkit-animation-name: card;
   animation-name: card;
 }
