@@ -2,6 +2,21 @@
 .margin_left{
 
 }
+header{
+  text-align: center;
+}
+
+article {
+display: flex;
+justify-content: center;
+width:90%;
+height:90%;
+}
+.subhead1{
+  margin:2% 2% 2% 2%;
+  padding:5px 5px 5px 5px;
+  text-align: left;
+}
 .card{
 
   margin:2% 2% 2% 2%;
