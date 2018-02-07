@@ -1,0 +1,21 @@
+header{
+  text-align: center;
+}
+
+body {
+    position: relative;
+}
+article {
+display: flex;
+justify-content: center;
+width:90%;
+height:90%;
+}
+  #section1 {padding-top:5px;height:30%;color: #fff; background-color:#73808b;}
+  #section2 {padding-top:5px;height::30%;;color: #fff; background-color:#73808b;}
+  #section3 {padding-top:5px;height::30%;;color: #fff; background-color:#73808b;}
+.subhead1{
+  margin:2% 2% 2% 2%;
+  padding:5px 5px 5px 5px;
+  text-align: left;
+}

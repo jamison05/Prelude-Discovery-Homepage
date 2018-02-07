@@ -6,12 +6,20 @@ header{
   text-align: center;
 }
 
+body {
+    position: relative;
+}
 article {
 display: flex;
 justify-content: center;
 width:90%;
 height:90%;
 }
+  /* #section1 {padding-top:5px;height:100px;color: #fff; background-color: rgba(#73808b, 0.51);}
+  #section2 {padding-top:5px;height:100px;color: #fff; background-color: rgba(#73808b, 0.73);}
+  #section3 {padding-top:5px;height:100px;color: #fff; background-color: rgba(#73808b, 0.83);}
+  #section41 {padding-top:5px;height:100px;color: #fff; background-color:  rgba(#73808b, 1);}
+  #section42 {padding-top:5px;height:100px;color: #fff; background-color: #009688;} */
 .subhead1{
   margin:2% 2% 2% 2%;
   padding:5px 5px 5px 5px;
