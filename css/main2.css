@@ -12,10 +12,25 @@ width:90%;
 height:90%;
 }
   #section1 {padding-top:5px;height:30%;color: #fff; background-color:#73808b;}
-  #section2 {padding-top:5px;height::30%;;color: #fff; background-color:#73808b;}
-  #section3 {padding-top:5px;height::30%;;color: #fff; background-color:#73808b;}
+  #section2 {padding-top:5px;height:30%;color: #fff; background-color:#73808b;}
+  #section3 {padding-top:5px;height:30%;color: #fff; background-color:#73808b;}
+  #section4 {padding-top:5px;height:30%;color: #fff; background-color:#73808b;}
 .subhead1{
-  margin:2% 2% 2% 2%;
+  margin:5px 5px 5px 5px;
   padding:5px 5px 5px 5px;
   text-align: left;
+}
+h1{
+  padding: .5% .5% .5% 0%;
+  margin: .5% .5% .5% 0%;
+
+}
+
+p{
+  line-height: normal;
+  font-size: 1eM;
+  font-style: normal;
+  padding-left:5%;
+  padding-right:5%;
+  margin-top:1%;
 }
